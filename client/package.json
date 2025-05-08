@@ -1,8 +1,8 @@
 {
-  "name": "askitout",
+  "name": "learnr",
   "version": "0.1.0",
   "private": true,
-  "author": "Ashmit JaiSarita Gupta",
+  "author": "Bhavay kaushal",
   "dependencies": {
     "@google/generative-ai": "^0.24.0",
     "@reduxjs/toolkit": "^1.9.5",
